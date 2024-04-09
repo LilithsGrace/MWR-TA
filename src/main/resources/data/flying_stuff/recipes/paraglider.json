@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "aba",
+      "cdc",
+      "efe"
+    ],
+    "key": {
+      "a": {
+        "tag": "minecraft:wool"
+      },
+      "b": {
+        "item": "cataclysm:witherite_ingot"
+      },
+      "c": {
+        "item": "create:golden_sheet"
+      },
+      "d": {
+        "item": "minecraft:leather"
+      },
+      "e": {
+        "item": "minecraft:string"
+      },
+      "f": {
+        "item": "flying_stuff:celestium"
+      }
+    },
+    "result": {
+      "item": "flying_stuff:glider",
+      "count": 1
+    }
+  }

@@ -1,0 +1,8 @@
+{
+	"type": "mna:runeforging",
+	"tier": 1,
+	"material": "iceandfire:dragonbone",
+	"hits": 5,
+	"pattern": "ad_astra:steel_ingot",
+	"output": "mwrta:swordhandle"
+}
